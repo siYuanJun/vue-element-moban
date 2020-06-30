@@ -5,7 +5,7 @@
   window.SITE_CONFIG = {}
 
   // api接口请求地址
-  window.SITE_CONFIG['baseUrl'] = 'http://123.57.140.210:8888/'
+  window.SITE_CONFIG['baseUrl'] = 'http://loca:8888/'
 
   // cdn地址 = 域名 + 版本号
   window.SITE_CONFIG['domain'] = './' // 域名

@@ -4,7 +4,6 @@
       <div class="site-content">
         <div class="brand-info">
           <h2 class="brand-info__text">后台管理</h2>
-          <p class="brand-info__intro">后台管理</p>
         </div>
         <div class="login-main">
           <h3 class="login-title">管理员登录</h3>
@@ -37,7 +36,7 @@
         <div class="brand-info">
           <el-link type="success" target="_blank"></el-link>
           <p class="brand-info__intro">
-            <el-link type="info" target="_blank" href="http://www.beian.miit.gov.cn">中企高呈 © 2020 | </el-link>
+            <el-link type="info" target="_blank" href="http://www.lvtcn.com">siYuanJun</el-link>
           </p>
         </div>
       </div>

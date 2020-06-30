@@ -14,7 +14,7 @@ module.exports = {
     // 代理列表, 是否开启代理通过[./dev.env.js]配置
     proxyTable: devEnv.OPEN_PROXY === false ? {} : {
       '/platform-plus': {
-        target: 'http://123.57.140.210:8888',
+        target: 'http://loca:8888',
         changeOrigin: true,
         pathRewrite: {
           '^/platform-plus': '/'
